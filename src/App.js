@@ -1,12 +1,12 @@
-import logo from './logo.svg';
+import logo from './Faiq.jpg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>byy lkjl</p>
+        <img src={logo} />
+        <h1>Ramət!</h1>
         <a
           className="App-link"
           href="https://reactjs.org"
